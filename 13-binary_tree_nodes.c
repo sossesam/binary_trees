@@ -25,5 +25,5 @@ right = binary_tree_nodes(tree->right);
 
 no_of_nodes = left + right + 1;
 
-return no_of_nodes;
+return (no_of_nodes);
 }
