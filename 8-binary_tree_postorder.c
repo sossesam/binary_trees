@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 #include <stdlib.h>
 /**
- * binary_tree_preorder - Write a function that goes through a binary
- * tree using pre-order traversal
+ * binary_tree_postorder - Write a function that goes through a binary
+ * tree using post-order traversal
  * @tree: The root node to be deleted
  * @func:  funcrtion to call
  * Return: returns an integer
